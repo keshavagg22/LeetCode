@@ -1,0 +1,5 @@
+# 4. Print Without Space
+## Easy
+<div class="problem-statement">
+                <p></p><p><span style="font-size:18px">Given two inputs that are stored in variables <strong>a </strong>and <strong>b</strong>, you need to print <strong>a </strong>and <strong>b</strong> in a single line without space betweenthem.<br>Note: Must print end of the line after printing a and b.</span><br><br><span style="font-size:18px"><strong>Example 1:</strong></span></p><pre><span style="font-size:18px"><strong>Input</strong>:a = "Hello"b = "World"<strong>Output:</strong> HelloWorld<strong>Explanation</strong>: a and b are printed in asingle line without space between them.</span></pre><p><br><span style="font-size:18px"><strong>Your Task: </strong><br>Just write the syntax to print<strong> a </strong>and <strong>b</strong> in a single line without space in between them. The input code is already provided.</span></p> <p></p>
+            </div>
